@@ -1,4 +1,4 @@
-var NorrisBot=require('../lib/norrisbot');
+var NorrisBot = require('./lib/norrisbot');
 
 var token = process.env.BOT_API_KEY;
 var dbPath = process.env.BOT_DB_PATH;
